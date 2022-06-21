@@ -6,7 +6,7 @@
 </h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Make+each+day+your+masterpiece."></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Make+each+code+your+masterpiece."></a>
 </p>
 
 
